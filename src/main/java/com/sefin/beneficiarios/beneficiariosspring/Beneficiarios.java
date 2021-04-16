@@ -12,6 +12,7 @@ import com.sefin.beneficiarios.negocio.Ficha;
 @RestController
 public class Beneficiarios {
 	
+	//Modificado daysi
 	@RequestMapping(value="/sefin/api/beneficiario", 
 	method = RequestMethod.POST,
 	consumes = "application/json",
